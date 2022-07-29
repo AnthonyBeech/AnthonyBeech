@@ -1,7 +1,7 @@
 <h1 align="center">Hi, my name's Anthony</h1>
 <h3 align="center">I'm a physicist with a passion for software!</h3>
 
-- 🔭 Right now I'm working in Geophysics creating tools that speed up the processing of seismic data: **Rig Picker, Line Mix Denoise.**
+- 🔭 Right now I'm working in Geophysics creating tools that speed up the processing of seismic data: **Rig Picker, Line Mix Denoise**
 
 - 🌱 I’m currently learning: **Python, Bash and C**
 
