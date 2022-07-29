@@ -1,11 +1,9 @@
 <h1 align="center">Hi, my name's Anthony</h1>
 <h3 align="center">I'm a physicist with a passion for software!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anthonybeech&label=Profile%20views&color=0e75b6&style=flat" alt="anthonybeech" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anthonybeech" alt="anthonybeech" /></a> </p>
 
-- 🔭 I'm currently working in Geophysics creating tools that speed up the processing of seismic data **Rig Picker, Line Mix Denoise**
+- 🔭 I'm currently working in Geophysics creating tools that speed up the processing of seismic data. **Rig Picker, Line Mix Denoise**
 
 - 🌱 I’m currently learning **Python, Bash and C**
 
@@ -13,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/anthonybeech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anthonybeech" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anthony-beech-407286156" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anthonybeech" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
