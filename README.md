@@ -1,11 +1,11 @@
 <h1 align="center">Hi, my name's Anthony</h1>
 <h3 align="center">I'm a physicist with a passion for software!</h3>
 
-- 🔭 I'm currently working in Geophysics creating tools that speed up the processing of seismic data. **Rig Picker, Line Mix Denoise**
+- 🔭 Right now I'm working in Geophysics creating tools that speed up the processing of seismic data: **Rig Picker, Line Mix Denoise.**
 
-- 🌱 I’m currently learning **Python, Bash and C**
+- 🌱 I’m currently learning: **Python, Bash and C**
 
-- 📫 How to reach me **abeech123@virginmedia.com**
+- 📫 Reach me by email: **abeech123@virginmedia.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
