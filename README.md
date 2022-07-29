@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Anthony</h1>
-<h3 align="center">A passionate python developer who loves working with data</h3>
+<h1 align="center">Hi, I'm Anthony</h1>
+<h3 align="center">I'm a physicist with a passion for software. Particularly data science with python. I have recently been working to improve efficieny within seismic processing, and to apply mahcine learning to make data QC more effective.</h3>
 
 - 🌱 I’m currently learning **Python, Bash and C**
 
-- 📫 How to reach me **abeech123@virginmedia.com**
+- 📫 How to reach me **abeech123@virginmedia.com** or **www.linkedin.com/in/anthony-beech-407286156
+**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
