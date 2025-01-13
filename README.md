@@ -1,19 +1,89 @@
-<h1 align="center">Hi, my name's Anthony</h1>
-<h3 align="center">I'm a physicist with a passion for software!</h3>
+<h1 align="center">Anthony Beech</h1>
+<h3 align="center">Data Scientist | Physicist</h3>
 
-- 🔭 Right now I'm working in Geophysics creating tools that speed up the processing of seismic data
-
-- 🌱 I’m currently learning: **Python, Bash and C**
-
-- 📫 Reach me by email: **abeech123@virginmedia.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/anthony-beech-407286156" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anthonybeech" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/anthony-beech-407286156" target="blank">
+    <img align="center" 
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+         alt="Anthony Beech LinkedIn" 
+         height="30" 
+         width="40" 
+    />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anthonybeech&show_icons=true&locale=en" alt="anthonybeech" /></p>
+### <ins>About Me</ins>
 
+<p>
+  Highly driven Data Scientist with a background in physics, specialized in applying analytical rigor to solve complex business challenges. Passionate about time series forecasting, NLP, and applying machine learning at scale. Leveraging a solid foundation in mathematics and scientific methodology, I focus on turning raw data into actionable insights and robust, production-grade solutions.
+</p>
+
+---
+
+### <ins>Interests</ins>
+
+- **Time Series Forecasting**  
+  Predicting future trends using ARIMA, Prophet, RNNs, etc.
+
+- **OCR (Optical Character Recognition)**  
+  Building end-to-end pipelines to extract, clean, and process text from image and PDF data.
+
+- **NLP (Natural Language Processing)**  
+  Developing text classification, sentiment analysis, and language models for advanced text analytics.
+
+- **Recommendation Systems**  
+  Crafting personalized solutions using collaborative filtering, matrix factorization, and deep learning.
+
+- **Statistical Analysis & Modeling**  
+  Leveraging experimental design and advanced statistical methods to uncover data insights.
+
+---
+
+### <ins>Languages and Tools</ins>
+
+#### Programming Languages
+- **Python** (NumPy, Pandas, SciPy, scikit-learn, Matplotlib, Seaborn, Plotly)
+- **SQL** (PostgreSQL, MySQL, BigQuery)
+- **JavaScript** (basic front-end integration)
+- **C**
+- **Bash** (Linux scripting, automation)
+- **Matlab**
+
+#### Machine Learning & Deep Learning
+- **PyTorch** (deep learning, custom model architectures)
+- **Keras** (TensorFlow back-end)
+- **XGBoost, LightGBM** (gradient boosting frameworks)
+- **OpenCV** (computer vision)
+- **Hugging Face** (transformers, NLP pipelines)
+
+#### Data Engineering & Big Data
+- **Airflow** (workflow orchestration)
+- **Docker** (containerization)
+- **Kubernetes** (container orchestration)
+- **Spark** (distributed computing)
+
+#### Cloud & DevOps
+- **Google Cloud Platform (GCP)**
+- **Amazon Web Services (AWS)**
+- **Microsoft Azure**
+- **CI/CD** (GitHub Actions, Jenkins)
+
+#### Version Control & Collaboration
+- **Git** (GitHub, GitLab)
+- **Jupyter Notebooks** (prototyping and experimentation)
+- **Confluence, Jira** (project tracking and documentation)
+
+#### Other Tools & Libraries
+- **Streamlit / Dash / Flask** (web apps and data visualization)
+- **LaTeX** (technical writing, scientific reports)
+- **MLflow** (experiment tracking)
+
+---
+
+<p align="center">
+  <em>
+    "Combining physics intuition with data-driven insights to deliver powerful, scalable solutions."
+  </em>
+</p>
