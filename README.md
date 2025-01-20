@@ -53,7 +53,6 @@
 
 #### Machine Learning & Deep Learning
 - **PyTorch** (deep learning, custom model architectures)
-- **Keras** (TensorFlow back-end)
 - **XGBoost, LightGBM** (gradient boosting frameworks)
 - **OpenCV** (computer vision)
 - **Hugging Face** (transformers, NLP pipelines)
@@ -79,6 +78,8 @@
 - **Streamlit / Dash / Flask** (web apps and data visualization)
 - **LaTeX** (technical writing, scientific reports)
 - **MLflow** (experiment tracking)
+- **hydra** (config management)
+- **pandera** (data validation)
 
 ---
 
